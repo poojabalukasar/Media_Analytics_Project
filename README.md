@@ -67,4 +67,13 @@ ROAS.
     2. Views peak in January and December, suggesting seasonal engagement patterns.
     3. Reactions and comments are highest on professional development content, indicating preference for upskilling themes.
     4. Engagement rate varies by month, with spikes tied to trending or motivational posts.
+
+
+
+## 📸 Dashboard Screenshots
+
+### Excel Dashboard
+![Excel Dashboard](Screenshots/Excel_Dashboard/Facebook_Excel_Dashboard.png)
+
+
   
