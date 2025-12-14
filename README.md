@@ -1,9 +1,9 @@
 # Media_Analytics_Project
-Analytics project analyzing media trends and insights.
+   Analytics project analyzing media trends and insights.
 
-This project focuses on analyzing social media performance across Google, LinkedIn, and Facebook. 
-It provides insights on engagement, reach, and trends using Excel, Power BI, and Tableau dashboards.
-SQL queries are used to extract and process data for meaningful analysis.
+   This project focuses on analyzing social media performance across Google, LinkedIn, and Facebook. 
+   It provides insights on engagement, reach, and trends using Excel, Power BI, and Tableau dashboards.
+   SQL queries are used to extract and process data for meaningful analysis.
 
 
 # Project Objective
@@ -76,59 +76,36 @@ ROAS.
 ### Excel Dashboard
 
 
-
-
 ![Excel Dashboard](Screenshots/Excel_Dashboard/Facebook_Excel_Dashboard.png)
 
 
-
-
 ![Excel Dashboard](Screenshots/Excel_Dashboard/Google_Excel_Dashboard.png)
-
-
 
 
 ![Excel Dashboard](Screenshots/Excel_Dashboard/Linkedin_Excel_Dashboard.png)
 
 
 
-
-
 ### PowerBI Dashboard
-
-
 
 
 ![PowerBI_Dashboard](Screenshots/PowerBI_Dashboard/Facebook_PowerBI_Dashboard.png)
 
 
-
-
 ![PowerBI_Dashboard](Screenshots/PowerBI_Dashboard/Google_PowerBI_Dashboard.png)
-
-
 
 
 ![PowerBI_Dashboard](Screenshots/PowerBI_Dashboard/Linkedin_PowerBI_Dashboard.png)
 
 
 
-
-
-
 ### Tableau Dashboard
-
-
 
 
 ![Tableau_Dashboard](Screenshots/Tableau_Dashboard/Facebook_Tableau_Dashboard.png)
 
 
-
-
 ![Tableau_Dashboard](Screenshots/Tableau_Dashboard/Google_Tableau_Dashboard.png)
-
-
 
 
 ![Tableau_Dashboard](Screenshots/Tableau_Dashboard/Linkedin_Tableau_Dashboard.png)
