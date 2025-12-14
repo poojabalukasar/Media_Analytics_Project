@@ -12,7 +12,7 @@
 3. Create interactive dashboards for data visualization and decision-making.
 
 
-# Tools & Technologies
+# Tools And Technologies
 # 1. Excel: Data cleaning, pivot tables, KPI calculations, and dashboard creation
 # 2. SQL: Data querying, joins, aggregations
 # 3. Power BI: Interactive dashboards, DAX measures, data modeling
