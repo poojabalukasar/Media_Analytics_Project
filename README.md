@@ -72,13 +72,20 @@ ROAS.
 
 ## 📸 Dashboard Screenshots
 
+
 ### Excel Dashboard
+
+
 
 
 ![Excel Dashboard](Screenshots/Excel_Dashboard/Facebook_Excel_Dashboard.png)
 
 
+
+
 ![Excel Dashboard](Screenshots/Excel_Dashboard/Google_Excel_Dashboard.png)
+
+
 
 
 ![Excel Dashboard](Screenshots/Excel_Dashboard/Linkedin_Excel_Dashboard.png)
@@ -86,13 +93,20 @@ ROAS.
 
 
 
+
 ### PowerBI Dashboard
+
+
 
 
 ![PowerBI_Dashboard](Screenshots/PowerBI_Dashboard/Facebook_PowerBI_Dashboard.png)
 
 
+
+
 ![PowerBI_Dashboard](Screenshots/PowerBI_Dashboard/Google_PowerBI_Dashboard.png)
+
+
 
 
 ![PowerBI_Dashboard](Screenshots/PowerBI_Dashboard/Linkedin_PowerBI_Dashboard.png)
@@ -100,13 +114,21 @@ ROAS.
 
 
 
+
+
 ### Tableau Dashboard
+
+
 
 
 ![Tableau_Dashboard](Screenshots/Tableau_Dashboard/Facebook_Tableau_Dashboard.png)
 
 
+
+
 ![Tableau_Dashboard](Screenshots/Tableau_Dashboard/Google_Tableau_Dashboard.png)
+
+
 
 
 ![Tableau_Dashboard](Screenshots/Tableau_Dashboard/Linkedin_Tableau_Dashboard.png)
